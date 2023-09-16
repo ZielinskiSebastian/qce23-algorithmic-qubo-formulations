@@ -1,1 +1,11 @@
-dimod
+conda create -n tutorial -c anaconda python=3.7
+
+conda activate tutorial
+
+pip install dwave-qbsolv
+pip install matplotlib
+pip install keras
+pip install tensorflow
+pip install dwave-neal
+pip install dimod
+
