@@ -1,4 +1,4 @@
-# qce23-algorithmic-qubo-formulations
+# TUT07: Algorithmic QUBO Formulations at IEEE Quantum Week 2023
 
 This repository contains slides and code for the tutorial TUT07 at IEEE Quantum Week 2023.
 
